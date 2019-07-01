@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\dyrjaven\Items\bin\Debug\Items.exe.config
+C:\Users\Alex\source\repos\dyrjaven\Items\bin\Debug\Items.exe
+C:\Users\Alex\source\repos\dyrjaven\Items\bin\Debug\Items.pdb
+C:\Users\Alex\source\repos\dyrjaven\Items\obj\Debug\Items.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\dyrjaven\Items\obj\Debug\Items.exe
+C:\Users\Alex\source\repos\dyrjaven\Items\obj\Debug\Items.pdb

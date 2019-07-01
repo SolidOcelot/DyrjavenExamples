@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\dyrjaven\Library2000\bin\Debug\Library2000.exe.config
+C:\Users\Alex\source\repos\dyrjaven\Library2000\bin\Debug\Library2000.exe
+C:\Users\Alex\source\repos\dyrjaven\Library2000\bin\Debug\Library2000.pdb
+C:\Users\Alex\source\repos\dyrjaven\Library2000\obj\Debug\Library2000.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\dyrjaven\Library2000\obj\Debug\Library2000.exe
+C:\Users\Alex\source\repos\dyrjaven\Library2000\obj\Debug\Library2000.pdb

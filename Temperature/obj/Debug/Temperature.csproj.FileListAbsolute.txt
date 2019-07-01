@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\dyrjaven\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\Alex\source\repos\dyrjaven\Temperature\bin\Debug\Temperature.exe
+C:\Users\Alex\source\repos\dyrjaven\Temperature\bin\Debug\Temperature.pdb
+C:\Users\Alex\source\repos\dyrjaven\Temperature\obj\Debug\Temperature.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\dyrjaven\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\dyrjaven\Temperature\obj\Debug\Temperature.exe
+C:\Users\Alex\source\repos\dyrjaven\Temperature\obj\Debug\Temperature.pdb

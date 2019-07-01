@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\dyrjaven\dyrjaven\bin\Debug\dyrjaven.exe.config
+C:\Users\Alex\source\repos\dyrjaven\dyrjaven\bin\Debug\dyrjaven.exe
+C:\Users\Alex\source\repos\dyrjaven\dyrjaven\bin\Debug\dyrjaven.pdb
+C:\Users\Alex\source\repos\dyrjaven\dyrjaven\obj\Debug\dyrjaven.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\dyrjaven\dyrjaven\obj\Debug\dyrjaven.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\dyrjaven\dyrjaven\obj\Debug\dyrjaven.exe
+C:\Users\Alex\source\repos\dyrjaven\dyrjaven\obj\Debug\dyrjaven.pdb
